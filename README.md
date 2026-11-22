@@ -21,7 +21,7 @@
 
 <div align="center">
 
-> **Student of AI & ML** at **Oriental Institute of Science and Technology**
+> **Student of AI & ML** at *Oriental Institute of Science and Technology*
 >
 > I build with **Python, Pandas, and the web** — turning data into insight and ideas into interfaces.
 >
@@ -29,21 +29,23 @@
 
 </div>
 
+<br/>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 What I'm Doing
+<h3 align="center">🚀 What I'm Doing</h3>
 
-- 🔭 Building **AI/ML and data projects**
+- 🔭 Building **AI/ML & data projects**
 - 🌱 Learning **full-stack engineering**
-- 📊 Exploring **data analytics and visualization**
+- 📊 Exploring **data analytics & visualization**
 - 🤝 Open to **collaborations**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Quick Facts
+<h3 align="center">🎯 Quick Facts</h3>
 
 - 🎓 **AI & ML** student
 - 💻 **Frontend / Full-stack** engineer
@@ -53,6 +55,8 @@
 </td>
 </tr>
 </table>
+
+<br/>
 
 ## ✦ Tech Stack ✦
 
@@ -71,6 +75,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 
 </div>
+
+<br/>
 
 ## ✦ GitHub Stats ✦
 
@@ -99,6 +105,8 @@
 
 </div>
 
+<br/>
+
 ## ✦ Featured Projects ✦
 
 <div align="center">
@@ -106,6 +114,7 @@
 <a href="https://github.com/Yogesh-325/yogesh-portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&amp;repo=yogesh-portfolio&amp;theme=radical&amp;hide_border=true" alt="yogesh-portfolio" />
 </a>
+
 <a href="https://github.com/Yogesh-325/Pandas-Projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&amp;repo=Pandas-Projects&amp;theme=radical&amp;hide_border=true" alt="Pandas-Projects" />
 </a>
@@ -115,11 +124,14 @@
 <a href="https://github.com/Yogesh-325/Suhana-Ghar-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&amp;repo=Suhana-Ghar-AI&amp;theme=radical&amp;hide_border=true" alt="Suhana-Ghar-AI" />
 </a>
+
 <a href="https://github.com/Yogesh-325/Yogesh-325">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&amp;repo=Yogesh-325&amp;theme=radical&amp;hide_border=true" alt="Yogesh-325" />
 </a>
 
 </div>
+
+<br/>
 
 ## ✦ Activity Graph ✦
 
@@ -128,6 +140,8 @@
 [![Yogesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-325&amp;theme=redical&amp;hide_border=true&amp;area=true&amp;color=c44dff&amp;line=ff6b9d&amp;point=00d4ff&amp;title_color=c44dff)](https://github.com/Yogesh-325)
 
 </div>
+
+<br/>
 
 ## ✦ Let's Connect ✦
 
