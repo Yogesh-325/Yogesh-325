@@ -102,7 +102,7 @@
 <br/><br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogesh-325&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6&cache=20261122" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yogesh-325&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub trophies" />
 </a>
 
 </div>
