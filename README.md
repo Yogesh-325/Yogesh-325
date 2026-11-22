@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yogesh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20%7C%20Full-Stack%20%20%C2%B7%20%20AI%20%26%20ML%20Student&descAlignY=55&descSize=18" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Yogesh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20%7C%20Full-Stack%20%C2%B7%20AI%20%26%20ML%20Student&descAlignY=55&descSize=18" width="100%" alt="Header banner" />
 
 <a href="https://github.com/yogesh-325">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+useful+things+with+code.;AI+%26+ML+Student+from+India.;Data+Analytics+%7C+Python+%7C+Web+Dev.;Always+shipping+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Building+useful+things+with+code.;AI+%26+ML+Student+from+India.;Data+Analytics+%7C+Python+%7C+Web+Dev.;Always+shipping+something+new." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yogesh-325&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/yogesh-325?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6C63FF?style=for-the-badge" alt="Focus" />
-<img src="https://img.shields.io/badge/Based%20in-India-6C63FF?style=for-the-badge" alt="India" />
+<img src="https://komarev.com/ghpvc/?username=yogesh-325&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/yogesh-325?label=Followers&style=for-the-badge&color=667eea" alt="Followers" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-f093fb?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Based%20in-India-764ba2?style=for-the-badge" alt="India" />
 
 </div>
 
@@ -57,7 +57,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,jupyter&theme=dark&perline=8" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode&theme=dark&perline=7" alt="Tech stack icons" />
 
 <br/><br/>
 
@@ -90,13 +90,13 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-325&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-325&theme=default&hide_border=true" width="70%" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yogesh-325&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yogesh-325&theme=default&hide_border=true" width="70%" alt="GitHub streak" />
 </picture>
 
 <br/><br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yogesh-325&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=yogesh-325&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies" />
 
 </div>
 
@@ -128,21 +128,6 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh-325/yogesh-325/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/yogesh-325/yogesh-325/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
-</picture>
-
-<sub>⚙️ *Snake animation requires a GitHub Action — see note below*</sub>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Activity Graph
 
 [![Yogesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogesh-325&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yogesh-325)
@@ -167,6 +152,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
