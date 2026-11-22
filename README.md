@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44dff,50:7b2ff7,75:00d4ff,100:00ffa3&height=220&section=header&text=Yogesh&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20%7C%20Full-Stack%20%C2%B7%20AI%20%26%20ML%20Student&descAlignY=60&descSize=20" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,25:c44dff,50:7b2ff7,75:00d4ff,100:00ffa3&amp;height=220&amp;section=header&amp;text=Yogesh&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Frontend%20%7C%20Full-Stack%20%C2%B7%20AI%20%26%20ML%20Student&amp;descAlignY=60&amp;descSize=20" width="100%" alt="Header banner" />
 
 <a href="https://github.com/yogesh-325">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=1200&color=C44DFF&center=true&vCenter=true&width=700&height=60&lines=Building+useful+things+with+code.;AI+%26+ML+Student+from+India.;Data+Analytics+%7C+Python+%7C+Web+Dev.;Always+shipping+something+new." alt="Typing SVG" />
