@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,25:c44dff,50:7b2ff7,75:00d4ff,100:00ffa3&amp;height=220&amp;section=header&amp;text=Yogesh&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Frontend%20%7C%20Full-Stack%20%7C%20AI%20%26%20ML%20Student&amp;descAlignY=60&amp;descSize=20" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,25:c44dff,50:7b2ff7,75:00d4ff,100:00ffa3&amp;height=220&amp;section=header&amp;text=Yogesh&amp;fontSize=80&amp;fontColor=ffffff" alt="Yogesh header banner" />
 
 <a href="https://github.com/Yogesh-325">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&amp;weight=700&amp;size=28&amp;pause=1200&amp;color=C44DFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Building+useful+things+with+code.;AI+%26+ML+Student+from+India.;Data+Analytics+%7C+Python+%7C+Web+Dev.;Always+shipping+something+new." alt="Typing SVG" />
