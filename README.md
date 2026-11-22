@@ -101,7 +101,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yogesh-325&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;row=1&amp;column=6" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yogesh-325&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;row=1&amp;column=6" />
 
 </div>
 
