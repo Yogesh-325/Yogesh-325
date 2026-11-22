@@ -1,107 +1,172 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · YOGESH-325</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yogesh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20%7C%20Full-Stack%20%20%C2%B7%20%20AI%20%26%20ML%20Student&descAlignY=55&descSize=18" width="100%" alt="Header banner" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&label=Yogesh&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&label=Yogesh&mode=dark" width="100%" alt="Yogesh cinematic profile scene" />
-</picture>
+<a href="https://github.com/yogesh-325">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+useful+things+with+code.;AI+%26+ML+Student+from+India.;Data+Analytics+%7C+Python+%7C+Web+Dev.;Always+shipping+something+new." alt="Typing SVG" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&label=Yogesh&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&label=Yogesh&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Yogesh animated ASCII name" />
-</picture>
+<br/>
 
-<p><strong>Frontend or full-stack engineer</strong> · India</p>
-<p>Student of AI&amp;ML at ( Oriental Institute Of Science and Technology )</p>
+<img src="https://komarev.com/ghpvc/?username=yogesh-325&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/yogesh-325?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6C63FF?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Based%20in-India-6C63FF?style=for-the-badge" alt="India" />
 
-<p><a href="https://github.com/yogesh-325">GitHub</a></p>
 </div>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Student of AI&amp;ML at ( Oriental Institute Of Science and Technology )</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · India<br />FOCUS · Jupyter Notebook</sub></p><p><strong>6</strong> repos<br /><strong>23</strong> contributions<br /><strong>1</strong> followers</p></td>
-</tr>
-</table>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>In the current cut</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&items=Jupyter%20Notebook%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20active%20build%20queue%7CJavaScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&items=Jupyter%20Notebook%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20active%20build%20queue%7CJavaScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Yogesh cinematic highlights" />
-</picture>
-
-<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Production palette</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&v=cinematic-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Yogesh animated technology stack" />
-</picture>
-
-<p align="center"><sub>Jupyter Notebook · HTML · JavaScript · Python · CSS · tools chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Featured reel</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&repos=yogesh-325%2Fyogesh-portfolio%2Cyogesh-325%2FPandas-Projects%2Cyogesh-325%2FYogesh-325%2Cyogesh-325%2FSuhana-Ghar-AI&v=cinematic-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&repos=yogesh-325%2Fyogesh-portfolio%2Cyogesh-325%2FPandas-Projects%2Cyogesh-325%2FYogesh-325%2Cyogesh-325%2FSuhana-Ghar-AI&v=cinematic-projects-2&mode=dark" width="100%" alt="Yogesh cinematic project reel" />
-</picture>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yogesh-325/yogesh-portfolio">yogesh-portfolio</a></strong></p><p>Personal portfolio website showcasing my Python, Data Analytics and AI/ML projects</p><p><sub>CSS · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yogesh-325/Pandas-Projects">Pandas-Projects</a></strong></p><p>Python and Pandas data analysis projects featuring EDA, business/company analysis, IPL cricket analysis, data visualization, and real-world datasets.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yogesh-325/Yogesh-325">Yogesh-325</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yogesh-325/Suhana-Ghar-AI">Suhana-Ghar-AI</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<p align="center"><sub>6 public projects · 0 stars · 23 contributions · 1 followers</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Contribution trail</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Yogesh contribution snake" />
-</picture>
-
-<h2>Play the next move</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Yogesh animated chess replay" />
-</picture>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+---
 
 <div align="center">
-<p><sub>THE NEXT SCENE</sub></p>
 
-<h2>Keep the story moving</h2>
+## 👋 About Me
 
-<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+> **Student of AI & ML** at *Oriental Institute of Science and Technology*
+> 
+> I build with **Python, Pandas, and the web** — turning data into insight and ideas into interfaces.
+> I love small teams, ambitious ideas, and collaborations that actually ship.
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I'm Doing
+- 🔭 Building **AI/ML & data projects**
+- 🌱 Learning **full-stack engineering**
+- 📊 Exploring **data analytics & visualization**
+- 🤝 Open to **collaborations**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Facts
+- 🎓 **AI & ML** student
+- 💻 **Frontend / Full-stack** engineer
+- 🐍 **Python** enthusiast
+- 📍 Based in **India**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,jupyter&theme=dark&perline=8" alt="Tech stack icons" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&v=cinematic-social-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=yogesh-325&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187787125%3Fu%3D2951f9aebcf9a6126173fc4c31b01a718efa97a1%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Yogesh contact links" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yogesh-325&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh-325&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
 </picture>
 
-<p><a href="https://github.com/yogesh-325">GitHub</a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-325&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-325&layout=compact&theme=default&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
+</picture>
 
-<p><sub>Yogesh · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-325&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-325&theme=default&hide_border=true" width="70%" alt="GitHub streak" />
+</picture>
+
+<br/><br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yogesh-325&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Projects
+
+<a href="https://github.com/Yogesh-325/yogesh-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&repo=yogesh-portfolio&theme=tokyonight&hide_border=true" alt="yogesh-portfolio" />
+</a>
+<a href="https://github.com/Yogesh-325/Pandas-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&repo=Pandas-Projects&theme=tokyonight&hide_border=true" alt="Pandas-Projects" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Yogesh-325/Suhana-Ghar-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&repo=Suhana-Ghar-AI&theme=tokyonight&hide_border=true" alt="Suhana-Ghar-AI" />
+</a>
+<a href="https://github.com/Yogesh-325/Yogesh-325">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-325&repo=Yogesh-325&theme=tokyonight&hide_border=true" alt="Yogesh-325" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh-325/yogesh-325/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/yogesh-325/yogesh-325/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+</picture>
+
+<sub>⚙️ *Snake animation requires a GitHub Action — see note below*</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Activity Graph
+
+[![Yogesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogesh-325&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yogesh-325)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://github.com/yogesh-325">
+  <img src="https://img.shields.io/badge/GitHub-yogesh--325-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+**I enjoy working with people who care about the details, share the context, and ship something useful.**
+
+<sub>If you want to build something interesting — reach out. 🚀</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer" />
+
 </div>
